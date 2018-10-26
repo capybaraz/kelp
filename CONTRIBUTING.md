@@ -44,7 +44,6 @@ Of course, feel free to create a new issue if you think something needs to be ad
 ### Submitting Changes
 
 * [Sign the Contributor License Agreement](https://goo.gl/forms/lkjJbvkPOO4zZFDp2) so we can accept your contributions.
-* All content, comments, and pull requests must follow the [Stellar Community Guidelines](https://www.stellar.org/community-guidelines/).
 * Push your changes to a feature branch in your fork of the repository.
 * Submit a Pull Request.
   * Include a descriptive [commit message](https://github.com/erlang/otp/wiki/Writing-good-commit-messages).
